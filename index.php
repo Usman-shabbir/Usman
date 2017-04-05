@@ -531,7 +531,7 @@ echo'
 <h3>Dεvεℓσρεяs : FEEL THE POWER OF FRIENDSHIP</h3> 
 <marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-<font size="20" color="red"></font><a class="sec" href="http://fb.com/usman.shabbi"><font color="sky blue" size="20">♥USMAN SHEZI AHXI Asmat /font></a></b> <font size="20" color="red">♥</font><b>
+<font size="20" color="red"></font><a class="sec" href="http://fb.com/usman.shabbi"><font color="sky blue" size="20">♥USMAN SHEZI AHXI Asmat</font></a></b> <font size="20" color="red">♥</font><b>
 
 <h3><a name="navigation-name" class="no-link">G  E  T  W  O  R  K  I  N  G  T  O  K  E  N</a></h3>
 
