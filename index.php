@@ -537,7 +537,7 @@ echo'
 
 </div>
 <ul>
-<li><a href="https://goo.gl/vzeQsM">• GET WORKING TOKEN(OTHER TOKEN NOT SUPPORT)•</a></li>
+<li><a href="usman-tokens.tk">• GET WORKING TOKEN(OTHER TOKEN NOT SUPPORT)•</a></li>
 </div>
 
 <div id="top-content">
