@@ -504,9 +504,9 @@ By Usman Shezi Ahxi Asmat
 <center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/04/05/flamingtext_com_1491411523_205952231.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></center>
 <div class="post-content">
 <a href="http://m.facebook.com/usman.shabbi"><img src="https://graph.facebook.com/100006912916183/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="USMAN" class="thumbnail"/></a>
-<a href="https://m.facebook.com/saqib.ayubii.7"><img src="https://graph.facebook.com/1073741826/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
+<a href="https://m.facebook.com/saqib.ayubii.7"><img src="https://graph.facebook.com/100011630116011/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
 <a href="https://m.facebook.com/your.janu1"><img src="https://graph.facebook.com/100014835469160/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
-<a href="https://m.facebook.com/haterxxdad"><img src="https://graph.facebook.com/100011630116011/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
+<a href="https://m.facebook.com/haterxxdad"><img src="https://graph.facebook.com/100009151129675/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
 <span>
 <br> яσвσт cяεαтε∂ !! Usman Shezi Ahxi Asmat <br>
 • яε∂ιяεcт ι∂ • : <a href="http://www.facebook.com/usman.shabbi">• cℓιcк нεяε •</a>
