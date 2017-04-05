@@ -482,7 +482,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/04/05/flamingtext_com_1491411427_205952230.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/04/05/flamingtext_com_1491420825_205952262.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 </h1>
 <h2 class="description">
 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
@@ -501,7 +501,7 @@ By Usman Shezi Ahxi Asmat
 </div>
 
 <div class="post-content">
-<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/04/05/flamingtext_com_1491411523_205952231.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></center>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/04/05/flamingtext_com_1491420822_205952261.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></center>
 <div class="post-content">
 <a href="http://m.facebook.com/usman.shabbi"><img src="https://graph.facebook.com/100006912916183/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="USMAN" class="thumbnail"/></a>
 <a href="https://m.facebook.com/Father.OF.ToPPer"><img src="https://graph.facebook.com/100011630116011/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="AHXI" class="thumbnail"/></a>
@@ -533,11 +533,11 @@ echo'
 <b>
 <font size="20" color="red"></font><a class="sec" href="http://fb.com/usman.shabbi"><font color="sky blue" size="20">♥USMAN SHEZI AHXI Asmat</font></a></b> <font size="20" color="red">♥</font><b>
 
-<h3><a name="navigation-name" class="no-link">G  E  T  W  O  R  K  I  N  G  T  O  K  E  N</a></h3>
+<h3><a name="navigation-name" class="usman-tokens.tk"">G  E  T  W  O  R  K  I  N  G  T  O  K  E  N</a></h3>
 
 </div>
 <ul>
-<li><a https="usman-tokens.tk">• GET WORKING TOKEN(OTHER TOKEN NOT SUPPORT)•</a></li>
+<li><a href="usman-tokens.tk">• GET WORKING TOKEN(OTHER TOKEN NOT SUPPORT)•</a></li>
 </div>
 
 <div id="top-content">
